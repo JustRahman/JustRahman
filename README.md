@@ -5,6 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justrahman" alt="justrahman" /></a> </p>
 
+- 🔭 I’m currently working on **free watching-online platform**
+
+- 🌱 I’m currently learning **python,c#,unity**
+
+- 📫 How to reach me **no way**
+
+- ⚡ Fun fact **I started learning programming when I was 15**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/justrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="justrahman" height="30" width="40" /></a>
@@ -23,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justrahman&show_icons=true&locale=en" alt="justrahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justrahman&" alt="justrahman" /></p>
+
