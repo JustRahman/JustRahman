@@ -17,8 +17,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C-Sharp" width="60" height="60" />
+           </a>
+ <a href="https://docs.python.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="C-Sharp" width="60" height="60" />
+           </a>
+  <a href="https://docs.unity3d.com/Manual/index.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="C-Sharp" width="60" height="60" />
            </a>
 </p>
  
