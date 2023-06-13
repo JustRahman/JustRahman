@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahman, hacktivist</h1>
-<h3 align="center">A passionate desktop app developer</h3>
-<h3 align="center">I wish I would be game developer</h3>
+<h3 align="center">A passionate programmer</h3>
+<h3 align="center">I wish I would data science developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justrahman&label=Profile%20views&color=0e75b6&style=flat" alt="justrahman" /> </p>
 
@@ -23,9 +23,7 @@
  <a href="https://docs.python.org/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="C-Sharp" width="60" height="60" />
            </a>
-  <a href="https://docs.unity3d.com/Manual/index.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="C-Sharp" width="60" height="60" />
-           </a>
+ 
 </p>
  
 
