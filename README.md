@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justrahman" alt="justrahman" /></a> </p>
 
-- 🔭 I’m currently working on **free watching-online platform**
+- 🔭 I’m currently working on **site for help for the elderly and disabled people **
 
-- 🌱 I’m currently learning **python,c#,unity**
+- 🌱 I’m currently learning **node.js,django,flutter**
 
 - 📫 How to reach me **no way**
 
