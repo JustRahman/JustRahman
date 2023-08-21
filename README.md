@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **site for help for the elderly and disabled people **
 
-- 🌱 I’m currently learning **node.js,django,flutter**
+- 🌱 I’m currently learning **python for data sciene and machine learning**
 
 - 📫 How to reach me **no way**
 
